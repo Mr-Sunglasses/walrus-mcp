@@ -1,0 +1,38 @@
+{
+  "recommendations": [
+    // Essential for TypeScript/React development
+    "ms-vscode.vscode-typescript-next",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+
+    // Next.js and React
+    "ms-vscode.vscode-react-refactor",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense",
+
+    // Git and collaboration
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+
+    // Code quality and productivity
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "ms-vscode.vscode-json",
+    "redhat.vscode-yaml",
+
+    // Markdown and documentation
+    "yzhang.markdown-all-in-one",
+    "DavidAnson.vscode-markdownlint",
+
+    // Motion Labs workflow
+    "ms-vscode.vscode-github-issue-notebooks",
+    "GitHub.vscode-github-actions"
+  ],
+  "unwantedRecommendations": [
+    "ms-vscode.vscode-typescript",
+    "hookyqr.beautify"
+  ]
+}
